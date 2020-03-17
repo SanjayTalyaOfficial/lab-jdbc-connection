@@ -67,7 +67,7 @@ public static Properties loadPropertiesFile() throws Exception {
 Create a file called as jdbc.properites. To create a file right click on the application - new - file - name the file as jdbc.properties.
 ```
 jdbc.properties
-#JDBC properties entry for ORACLE server
+#JDBC properties entry for MYSQL server
 driver = oracle.jdbc.OracleDriver
 url=jdbc:oracle:thin:@localhost:1521:xe
 username=your_username
@@ -75,10 +75,10 @@ password=your_password
 
 ```
 
-**Sample Output - 1**
-```Connection Established.```
+**Sample Output**
 
-
-**Sample Output - 2**
-```Check your Connection.```
-
+> List of all skills 
+> 1) All Rounder 
+> 2) Batting 
+> 3) Bowling 
+> 4) Wicket Keeping Batting 
